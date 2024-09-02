@@ -4,3 +4,4 @@ registry.k8s.io/lngress-nginx/kube-webhook-certgen:v1.4.1
 registry.k8s.io/lngress-nginx/controller:v1.10.1
 grafana/grafana: 10.0.9
 prom/node-exporter: v1.81
+prom/prometheus: 2.53.0
